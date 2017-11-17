@@ -1,7 +1,7 @@
-# italiannames
+# Identify Italian Names
 Classify names into Italian and non-Italian.
 ## Italian Last Name Endings
-We use the endings as described (here)[https://www.thoughtco.com/the-meaning-and-origins-of-italian-last-names-2011519]. Specifically, we assume the following **endings** to be possibly Italian:
+We use the endings as described [here](https://www.thoughtco.com/the-meaning-and-origins-of-italian-last-names-2011519). Specifically, we assume the following **endings** to be possibly Italian:
 * asco
 * ago/aghi/ate/ati	
 * atti/atto/etti/otti/elli/olli
