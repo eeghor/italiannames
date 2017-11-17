@@ -55,7 +55,8 @@ We use the endings as described [here](https://www.thoughtco.com/the-meaning-and
 * y	
 * t	
 * ra	
-In addition, there are certain prefixes often seen in the Italian last names such as
+
+In addition, there are certain **prefixes** often seen in the Italian last names such as
 * De
 * Del	
 * Della	
